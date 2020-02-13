@@ -3,7 +3,6 @@ logo: "/images/faceCircle.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <a href="https://www.linkedin.com/in/michael-heffner-492013193/">View My LinkedIn Profile</a> 
   
-gameDevResume: 
 <object data="/pdf/GameDev.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="/pdf/GameDev.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
